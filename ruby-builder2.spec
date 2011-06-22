@@ -5,7 +5,7 @@
 %define	pkgname	builder
 Summary:	Simple builder to facilitate programatic generation of XML markup
 Summary(pl.UTF-8):	Proste narzędzie do budowania ułatwiające programowe generowanie znaczników XML
-Name:		ruby-%{pkgname}
+Name:		ruby-builder2
 Version:	2.1.2
 Release:	2
 License:	Ruby's
